@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-UserAccountsApplication<user-accounts>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.tecgurus.useraccounts.UserAccountsApplication",
+            "projectName": "user-accounts",
+            "args": ""
+        }
+    ]
+}
